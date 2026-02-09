@@ -22,35 +22,6 @@
 
 
 
-### Things to note
-
-- 🔭 <b>Currently working on:</b> Laravel
-- 🌱 <b>Getting better at:</b> MERN stack
-- 🔬 <b>Exploring:</b> <ul>
-     <li>Scalable web architectures and System Design</li>
-     <li>Artificial Intelligence</li>
-     <li>Blockchain</li>
-     <li>IoT(Internet of Things)</li>
-     <li>Hardware Engineering</li>
- </ul>
- 
-
-### My Stacks
-
-```json
-{
-  "languages": ["PHP", "Node.js"],
-  "frameworks/libraries": {
-    "backend": ["Express.js","Laravel"],
-    "frontend": ["React.js","Vue.js", ,"Electron.js"],
-    "database": ["MongoDB", "PostgreSQL", "MYSQL","SQLite"],
-    "tools": ["VScode","Postman", "Insomnia Core", "Swagger"],
-    "cloud": ["AWS","Heorku","Firebase","Google Cloud Platform","Digital Ocean"]
-}
-```
-
-
-
 #### Happy coding!
 
 <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=abon&color=2C2E56">
